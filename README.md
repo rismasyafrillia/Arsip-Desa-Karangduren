@@ -38,7 +38,7 @@ Sistem Informasi Arsip Surat ini dibuat menggunakan **Laravel** untuk membantu d
 ---
 
 ## Cara Menjalankan
-- Clone repository ini  
+- Clone repository
    ```bash
    **[git clone](https://github.com/rismasyafrillia/Arsip-Desa-Karangduren)
    cd arsip-surat
