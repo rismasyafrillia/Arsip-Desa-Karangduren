@@ -42,18 +42,13 @@ Sistem Informasi Arsip Surat ini dibuat menggunakan **Laravel** untuk membantu d
    ```bash
    **[git clone](https://github.com/rismasyafrillia/Arsip-Desa-Karangduren)
    cd arsip-surat
-- Install dependencies
-    composer install
-    npm install && npm run dev
-- Salin file .env.example menjadi .env lalu atur koneksi database.
-- Generate key aplikasi
-    php artisan key:generate
-- Jalankan migrasi database
-    php artisan migrate
-- Jalankan server Laravel
-    php artisan serve
+   composer install
+   npm install && npm run dev
+   php artisan key:generate
+   php artisan migrate
+   php artisan serve
 
-## 🖼 Screenshot
+## Screenshot
 
 ### Daftar Arsip
 ![Arsip](screenshots/arsip.png)
