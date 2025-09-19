@@ -4,7 +4,7 @@
     </a>
 </p>
 
-<h2 align="center">📂 Sistem Informasi Arsip Surat</h2>
+<h2 align="center">Sistem Informasi Arsip Surat</h2>
 
 <p align="center">
     <a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
@@ -15,12 +15,12 @@
 
 ---
 
-## 📝 Tentang Project
+## Tentang Project
 Sistem Informasi Arsip Surat ini dibuat menggunakan **Laravel** untuk membantu desa/kelurahan dalam mengelola arsip surat masuk dan surat keluar. Aplikasi ini memudahkan pencatatan, penyimpanan, pencarian, serta pengelompokan surat dalam kategori tertentu sehingga lebih efisien, aman, dan terstruktur.
 
 ---
 
-## 🎯 Tujuan
+## Tujuan
 - Menyediakan sistem pencatatan arsip surat digital.  
 - Mempermudah pencarian arsip dengan fitur filter dan kategori.  
 - Mengurangi risiko kehilangan dokumen.  
@@ -28,7 +28,7 @@ Sistem Informasi Arsip Surat ini dibuat menggunakan **Laravel** untuk membantu d
 
 ---
 
-## ✨ Fitur Utama
+## Fitur Utama
 - CRUD Surat Masuk & Surat Keluar  
 - Upload & Simpan Surat (PDF)  
 - Kategori Surat (Penting, Biasa, Rahasia, dll)  
@@ -37,7 +37,7 @@ Sistem Informasi Arsip Surat ini dibuat menggunakan **Laravel** untuk membantu d
 
 ---
 
-## 🚀 Cara Menjalankan
+## Cara Menjalankan
 - Clone repository ini  
    ```bash
    **[git clone](https://github.com/rismasyafrillia/Arsip-Desa-Karangduren)
